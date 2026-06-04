@@ -38,13 +38,13 @@
 00663680 60000000
 ```
 
-### Force enable MSAA ingame
+# Force enable MSAA ingame
 
 ```
 004E940C 38800001
 ```
 
-### Force disable MSAA in FrontEnd (menus)
+# Force disable MSAA in FrontEnd (menus)
 
 ```
 004E8F7C 38800000
