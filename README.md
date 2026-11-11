@@ -11,7 +11,7 @@ This is a quick and dirty collection of patches for NFS Carbon PS3.
 
 ## Compatibility
 
-Currently only compatible with `BLUS30016`.
+Currently compatible with `BLUS30016` and `BLES00020`.
 
 ## Steps
 
@@ -35,9 +35,9 @@ NOTE: `EBOOT-patched.BIN` is built as an FSELF, so if you want to build it as a 
 00663680 60000000
 ```
 
-## Patch List (BLUS30016)
+## Patch List
 
-[Go here](patches/BLUS30016/Patches.md)
+[BLUS30016](patches/BLUS30016/Patches.md), [BLES00020](patches/BLES00020/Patches.md)
 
 # Where are the RPCS3 patches?
 
